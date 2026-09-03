@@ -1,70 +1,96 @@
-🌌 Hey, it’s me, Tusher 👋
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=TUSHER&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35" /> </p> <p align="center">
-💻 Full-Stack Developer in the making
+Hey, it’s me, Tusher 👋
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6D28D9,50:2563EB,100:06B6D4&height=220&section=header&text=TUSHER&fontSize=65&fontColor=ffffff&animation=fadeIn" /> </p> <p align="center"> <b>Full-Stack Developer · Mechatronics Engineer in Training · Builder</b> </p> <p align="center"> <i>Writing code, building systems, and figuring things out along the way.</i> </p>
+👋 Who Am I?
 
-MERN Stack • JavaScript • Robotics • Mechatronics
+I'm Tusher, a full-stack developer currently learning and improving every day.
 
-</p>
-✨ A Little About Me
+I'm pursuing a B.Sc. in Mechatronics Engineering at World University of Bangladesh, which gives me a pretty interesting combination of interests:
 
-Hey! I'm Tusher, a developer currently working toward becoming a professional full-stack developer.
+Software + Hardware + Automation + Robotics
 
-I'm studying B.Sc. in Mechatronics Engineering at World University of Bangladesh, while spending my free time building web applications and exploring technology.
+My main focus right now is full-stack web development, especially using the MERN stack with JavaScript.
 
-I mostly work with the MERN stack and JavaScript, but I'm always experimenting with something new.
+🧑‍💻 My Developer Journey
+             ┌───────────────────┐
+             │    JavaScript     │
+             └─────────┬─────────┘
+                       │
+                       ▼
+             ┌───────────────────┐
+             │    MERN Stack     │
+             └─────────┬─────────┘
+                       │
+                       ▼
+             ┌───────────────────┐
+             │ Full-Stack Dev    │
+             └─────────┬─────────┘
+                       │
+              ┌────────┴────────┐
+              ▼                 ▼
+          TypeScript          Backend
+              │                 │
+              └────────┬────────┘
+                       ▼
+                Better Systems
 
-🎨 My World
-          SOFTWARE
-             │
-       ┌─────┴─────┐
-       │           │
-      WEB       JAVASCRIPT
-       │           │
-       └─────┬─────┘
-             │
-          HARDWARE
-             │
-       ┌─────┴─────┐
-       │           │
-    ARDUINO     ROBOTICS
-       │           │
-       └─────┬─────┘
-             │
-        MECHATRONICS
-
-🧰 Technologies
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" /> </p>
-🌱 Learning
+⚡ Tech I Work With
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,vscode,postman" /> </p>
+🌱 Currently Learning
 <p align="center"> <img src="https://skillicons.dev/icons?i=ts,cpp,python" /> </p>
-🚀 Featured
+🚀 One of My Projects
 PRPS Alumni Association
 
-A full-stack alumni association platform developed with the MERN stack.
+A full-stack platform built with the MERN stack.
 
-MongoDB + Express + React + Node.js
+Frontend → React
+Backend  → Node.js + Express
+Database → MongoDB
+Language → JavaScript
 
-🔗 https://prps-alumni.pages.dev/
 
-🌍 What I'm Building Now
-A platform for citizens.
+Live Demo: https://prps-alumni.pages.dev/
 
-I'm currently working on a website where people can report problems in their local area.
+🌐 Current Project
+Citizen → Representative
 
-The idea is to make sure those complaints can reach the appropriate political representative directly.
+I'm currently developing a platform where citizens can submit complaints about issues in their local area.
 
-Technology should not only make our lives easier — it should also make communication easier.
+The vision:
 
-🤖 Things I Love Exploring
-🤖 Robotics
-🔌 Arduino
-⚙️ Mechatronics
-💻 Web Development
-🧠 Programming
-🚀 New Technologies
-📊 My GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tr-timon&show_icons=true&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr-timon&layout=compact&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=tr-timon&theme=radical&hide_border=true" /> </p>
-💫 Connect
-<p align="center"> <a href="YOUR_LINKEDIN_URL">💼 LinkedIn</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="YOUR_PORTFOLIO_URL">🌐 Portfolio</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="YOUR_X_URL">𝕏 X</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="YOUR_EMAIL">✉️ Email</a> </p>
-<p align="center">
-Dream → Build → Fail → Learn → Build Again
-</p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" /> </p>
+A citizen shouldn't have to figure out where to send a problem. The system should help get it to the right person.
+
+It's a project I'm particularly interested in because it combines software development with a real-world problem.
+
+🤖 Outside the Browser
+
+My engineering background keeps pulling me toward hardware.
+
+I'm interested in:
+
+Arduino · Robotics · Automation · Mechatronics
+
+Eventually, I'd love to explore projects that combine:
+
+Web
+ +
+Software
+ +
+Electronics
+ +
+Robotics
+ =
+Interesting Things
+
+🎯 My Goal
+
+Become a strong full-stack developer capable of taking an idea from concept → code → deployment.
+
+For now, that means:
+
+Learn → Build → Deploy → Improve
+
+📊 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tr-timon&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr-timon&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=tr-timon&theme=tokyonight&hide_border=true" /> </p>
+🤝 Let's Connect
+<p align="center"> <a href="YOUR_LINKEDIN_URL">LinkedIn</a> &nbsp;•&nbsp; <a href="YOUR_PORTFOLIO_URL">Portfolio</a> &nbsp;•&nbsp; <a href="YOUR_X_URL">X</a> &nbsp;•&nbsp; <a href="YOUR_EMAIL">Email</a> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:06B6D4&height=100&section=footer" /> </p> <p align="center"> <b>Thanks for visiting my corner of GitHub. 🚀</b> </p>
