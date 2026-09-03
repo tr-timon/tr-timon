@@ -93,4 +93,4 @@ Learn → Build → Deploy → Improve
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tr-timon&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr-timon&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=tr-timon&theme=tokyonight&hide_border=true" /> </p>
 🤝 Let's Connect
 <p align="center"> <a href="YOUR_LINKEDIN_URL">LinkedIn</a> &nbsp;•&nbsp; <a href="YOUR_PORTFOLIO_URL">Portfolio</a> &nbsp;•&nbsp; <a href="YOUR_X_URL">X</a> &nbsp;•&nbsp; <a href="YOUR_EMAIL">Email</a> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:06B6D4&height=100&section=footer" /> </p> <p align="center"> <b>Thanks for visiting my corner of GitHub. 🚀</b> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:06B6D4&height=100&section=footer" /> </p> <p align="center"> <b>Thanks for visiting my corner of GitHub. 🚀</b> </p> 
