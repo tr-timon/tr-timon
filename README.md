@@ -114,7 +114,7 @@ Improve
 Repeat
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tr-timon&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="180" alt="Tusher's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr-timon&layout=compact&hide_border=true&theme=tokyonight" height="180" alt="Tusher's Most Used Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=tr-timon&theme=tokyonight&hide_border=true" alt="Tusher's GitHub Streak" /> </p>
+<p align="center"> <a href="https://github.com/tr-timon?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://github.com/tr-timon?tab=stars"> <img src="https://img.shields.io/badge/Stars-My%20Stars-F59E0B?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://github.com/tr-timon?tab=followers"> <img src="https://img.shields.io/badge/Followers-Connect-10B981?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <p align="center"> <a href="https://github.com/tr-timon"> <img src="https://komarev.com/ghpvc/?username=tr-timon&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" /> </a> </p> <p align="center"> <i>Check my GitHub profile for my latest contributions, repositories, and activity.</i> </p>
 📌 What You'll Find Here
 💻 Web Development
 ⚡ JavaScript / MERN
