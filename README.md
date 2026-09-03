@@ -1,86 +1,90 @@
-<!-- ████████╗██╗ ██╗███████╗██╗ ██╗███████╗██████╗ ╚══██╔══╝██║ ██║██╔════╝██║ ██║██╔════╝██╔══██╗ ██║ ██║ ██║███████╗███████║█████╗ ██████╔╝ ██║ ██║ ██║╚════██║██╔══██║██╔══╝ ██╔══██╗ ██║ ╚██████╔╝███████║██║ ██║███████╗██║ ██║ ╚═╝ ╚═════╝ ╚══════╝╚═╝ ╚═╝╚══════╝╚═╝ ╚═╝ -->
-> Hey, it's me, Tusher_
-$ whoami
+Hey, it’s me, Tusher 👋
+Full-Stack Developer × Mechatronics Engineer × Builder
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,ts,cpp,python,arduino" /> </p>
 
-Tusher
-├── Full-Stack Developer
-├── Mechatronics Engineering Student
-├── JavaScript Enthusiast
-└── Robotics Explorer
+I like turning ideas into working systems — from web applications to hardware experiments.
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,50:7C3AED,100:06B6D4&height=2" width="100%" /> </p>
-01 // SYSTEM PROFILE
-name: Tusher
-username: tr-timon
-role: Full-Stack Developer
-status: Currently Learning
-university: World University of Bangladesh
-degree: B.Sc. Mechatronics Engineering
+🧬 Developer Profile
+	
+👨‍💻 Role	Full-Stack Developer
+🎓 Degree	B.Sc. Mechatronics Engineering
+🏫 University	World University of Bangladesh
+⚙️ Main Stack	MERN
+🟨 Primary Language	JavaScript
+🌱 Learning	TypeScript, C++, Python
+🤖 Interests	Arduino, Robotics, Automation
+🎯 Goal	Full-Stack Developer
+⚙️ My Stack
+Web
 
-primary_stack:
-  - JavaScript
-  - MongoDB
-  - Express.js
-  - React
-  - Node.js
+JavaScript React Node.js Express.js MongoDB
 
-mission:
-  Become a Full-Stack Developer
+Tools
 
-02 // TECHNOLOGIES
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git,github,vscode" /> </p>
-Loading...
-<p align="center"> <img src="https://skillicons.dev/icons?i=ts,cpp,python" /> </p>
+Git GitHub VS Code Postman
 
-TypeScript · C++ · Python
+Exploring
 
-03 // ACTIVE PROJECT
+TypeScript C++ Python Arduino
+
+🚀 Featured Project
 PRPS Alumni Association
-TYPE        → Full-Stack Web Application
-STACK       → MERN
-STATUS      → Completed / Live
+
+A MERN-stack web application created for an alumni community.
+
+Architecture
+
+React
+  ↓
+Express.js
+  ↓
+Node.js
+  ↓
+MongoDB
 
 
-A web platform created for the PRPS Alumni Association.
+🔗 Live Demo: https://prps-alumni.pages.dev/
 
-Live Demo: https://prps-alumni.pages.dev/
+🏗️ In Development
+Civic Complaint System
 
-04 // CURRENT MISSION
-Civic Complaint Platform
-CITIZEN
-   │
-   ▼
-SUBMIT COMPLAINT
-   │
-   ▼
-LOCAL AREA
-   │
-   ▼
-RESPONSIBLE POLITICAL LEADER
+I'm currently developing a platform that connects citizens with their local political representatives.
+
+The concept:
+
+Citizen
+   ↓
+Report Local Problem
+   ↓
+Select / Detect Area
+   ↓
+Relevant Representative
+   ↓
+Complaint Reaches Responsible Person
 
 
-Currently building a platform where citizens can submit complaints about problems in their local area.
+The bigger goal is to make local problem reporting more accessible and transparent.
 
-The objective is to create a simple digital bridge between citizens and their local representatives.
+🧠 Learning Pipeline
+JavaScript   → ████████████████████
+MERN         → ███████████████████░
+TypeScript   → ████████████░░░░░░░░
+Python       → ██████████░░░░░░░░░░
+C++          → █████████░░░░░░░░░░░
 
-05 // INTERESTS
-[████████████████████] Web Development
-[██████████████████░░] JavaScript
-[████████████████░░░░] MERN Stack
-[██████████████░░░░░░] Robotics
-[██████████████░░░░░░] Arduino
-[████████████░░░░░░░░] Automation
+🤖 Engineering Side
 
-06 // GITHUB TELEMETRY
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tr-timon&show_icons=true&theme=radical&hide_border=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr-timon&layout=compact&theme=radical&hide_border=true" height="170" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=tr-timon&theme=radical&hide_border=true" /> </p>
-07 // CONNECT
-STATUS: ONLINE
+My background in Mechatronics Engineering naturally pulls me toward the intersection of software and hardware.
 
-<p align="center"> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" /> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <a href="YOUR_X_URL"> <img src="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=x&logoColor=black" /> </a> </p>
-<p align="center">
-> Keep building.
-> Keep learning.
-> Keep breaking things.
-> Keep becoming better.
+I'm especially interested in:
 
-</p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=100&section=footer" width="100%" /> </p>
+🤖 Robotics
+🔌 Arduino
+⚙️ Automation
+🧠 Embedded systems
+🌐 Software + hardware integration
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tr-timon&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr-timon&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=tr-timon&theme=tokyonight&hide_border=true" /> </p>
+🌐 Find Me
+<p align="center"> <a href="YOUR_LINKEDIN_URL">LinkedIn</a> • <a href="YOUR_PORTFOLIO_URL">Portfolio</a> • <a href="YOUR_X_URL">X</a> • <a href="YOUR_EMAIL">Email</a> </p>
+<p align="center"> <b>Build → Learn → Improve → Repeat.</b> </p>
