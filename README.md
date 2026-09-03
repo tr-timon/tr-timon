@@ -1,6 +1,6 @@
-Hey, it’s me, Tusher 👋
+Hey, it’s me, Tusher 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6D28D9,50:2563EB,100:06B6D4&height=220&section=header&text=TUSHER&fontSize=65&fontColor=ffffff&animation=fadeIn" /> </p> <p align="center"> <b>Full-Stack Developer · Mechatronics Engineer in Training · Builder</b> </p> <p align="center"> <i>Writing code, building systems, and figuring things out along the way.</i> </p>
-👋 Who Am I?
+Who Am I?
 
 I'm Tusher, a full-stack developer currently learning and improving every day.
 
