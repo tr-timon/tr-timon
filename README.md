@@ -1,94 +1,70 @@
-tusher@github:~$ whoami
-Hey, it’s me, Tusher 👋
+🌌 Hey, it’s me, Tusher 👋
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=TUSHER&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35" /> </p> <p align="center">
+💻 Full-Stack Developer in the making
 
-Full-Stack Developer
-Mechatronics Engineering Student
-MERN Stack Developer
-Robotics Enthusiast
+MERN Stack • JavaScript • Robotics • Mechatronics
 
-$ neofetch
+</p>
+✨ A Little About Me
 
-OS          : Developer Mode
-Shell       : JavaScript
-Primary     : MERN Stack
-University  : World University of Bangladesh
-Degree      : B.Sc. Mechatronics Engineering
-Status      : Learning & Building
-Goal        : Full-Stack Developer
+Hey! I'm Tusher, a developer currently working toward becoming a professional full-stack developer.
 
-$ cat skills.txt
-Frontend
---------
-HTML
-CSS
-JavaScript
-React
+I'm studying B.Sc. in Mechatronics Engineering at World University of Bangladesh, while spending my free time building web applications and exploring technology.
 
-Backend
--------
-Node.js
-Express.js
-MongoDB
+I mostly work with the MERN stack and JavaScript, but I'm always experimenting with something new.
 
-Tools
------
-Git
-GitHub
-VS Code
-Postman
+🎨 My World
+          SOFTWARE
+             │
+       ┌─────┴─────┐
+       │           │
+      WEB       JAVASCRIPT
+       │           │
+       └─────┬─────┘
+             │
+          HARDWARE
+             │
+       ┌─────┴─────┐
+       │           │
+    ARDUINO     ROBOTICS
+       │           │
+       └─────┬─────┘
+             │
+        MECHATRONICS
 
-Learning
---------
-TypeScript
-C++
-Python
-
+🧰 Technologies
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" /> </p>
-$ ls ./projects
-PRPS-Alumni-Association/
-└── MERN Stack Application
-
+🌱 Learning
+<p align="center"> <img src="https://skillicons.dev/icons?i=ts,cpp,python" /> </p>
+🚀 Featured
 PRPS Alumni Association
 
-A full-stack alumni platform built using MongoDB, Express.js, React, and Node.js.
+A full-stack alumni association platform developed with the MERN stack.
 
-LIVE → https://prps-alumni.pages.dev/
+MongoDB + Express + React + Node.js
 
-$ ps aux | grep current_project
-PID     PROJECT
-001     Civic Complaint Platform
+🔗 https://prps-alumni.pages.dev/
 
-Civic Complaint Platform
+🌍 What I'm Building Now
+A platform for citizens.
 
-Currently building a system that allows citizens to submit local complaints and send them directly toward the relevant political leader.
+I'm currently working on a website where people can report problems in their local area.
 
-Citizen
-  |
-  +-- Submit Complaint
-  |
-  +-- Area Information
-  |
-  +-- Problem Details
-  |
-  v
-Relevant Political Representative
+The idea is to make sure those complaints can reach the appropriate political representative directly.
 
-$ cat interests.txt
-> Web Development
-> JavaScript
-> MERN
-> Robotics
-> Arduino
-> Automation
-> Mechatronics
+Technology should not only make our lives easier — it should also make communication easier.
 
-$ github --stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tr-timon&show_icons=true&theme=chartreuse-dark&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=tr-timon&theme=chartreuse-dark&hide_border=true" /> </p>
-$ ./connect.sh
-echo "Let's connect."
-
-<p align="center"> <a href="YOUR_LINKEDIN_URL">LinkedIn</a> | <a href="YOUR_PORTFOLIO_URL">Portfolio</a> | <a href="YOUR_X_URL">X</a> | <a href="YOUR_EMAIL">Email</a> </p>
-$ exit
-
-Thanks for stopping by.
-Have a great day. 👋
+🤖 Things I Love Exploring
+🤖 Robotics
+🔌 Arduino
+⚙️ Mechatronics
+💻 Web Development
+🧠 Programming
+🚀 New Technologies
+📊 My GitHub
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tr-timon&show_icons=true&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr-timon&layout=compact&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=tr-timon&theme=radical&hide_border=true" /> </p>
+💫 Connect
+<p align="center"> <a href="YOUR_LINKEDIN_URL">💼 LinkedIn</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="YOUR_PORTFOLIO_URL">🌐 Portfolio</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="YOUR_X_URL">𝕏 X</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="YOUR_EMAIL">✉️ Email</a> </p>
+<p align="center">
+Dream → Build → Fail → Learn → Build Again
+</p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" /> </p>
