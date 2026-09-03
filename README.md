@@ -1,90 +1,94 @@
+tusher@github:~$ whoami
 Hey, it’s me, Tusher 👋
-Full-Stack Developer × Mechatronics Engineer × Builder
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,ts,cpp,python,arduino" /> </p>
 
-I like turning ideas into working systems — from web applications to hardware experiments.
+Full-Stack Developer
+Mechatronics Engineering Student
+MERN Stack Developer
+Robotics Enthusiast
 
-🧬 Developer Profile
-	
-👨‍💻 Role	Full-Stack Developer
-🎓 Degree	B.Sc. Mechatronics Engineering
-🏫 University	World University of Bangladesh
-⚙️ Main Stack	MERN
-🟨 Primary Language	JavaScript
-🌱 Learning	TypeScript, C++, Python
-🤖 Interests	Arduino, Robotics, Automation
-🎯 Goal	Full-Stack Developer
-⚙️ My Stack
-Web
+$ neofetch
 
-JavaScript React Node.js Express.js MongoDB
+OS          : Developer Mode
+Shell       : JavaScript
+Primary     : MERN Stack
+University  : World University of Bangladesh
+Degree      : B.Sc. Mechatronics Engineering
+Status      : Learning & Building
+Goal        : Full-Stack Developer
 
-Tools
-
-Git GitHub VS Code Postman
-
-Exploring
-
-TypeScript C++ Python Arduino
-
-🚀 Featured Project
-PRPS Alumni Association
-
-A MERN-stack web application created for an alumni community.
-
-Architecture
-
+$ cat skills.txt
+Frontend
+--------
+HTML
+CSS
+JavaScript
 React
-  ↓
-Express.js
-  ↓
+
+Backend
+-------
 Node.js
-  ↓
+Express.js
 MongoDB
 
+Tools
+-----
+Git
+GitHub
+VS Code
+Postman
 
-🔗 Live Demo: https://prps-alumni.pages.dev/
+Learning
+--------
+TypeScript
+C++
+Python
 
-🏗️ In Development
-Civic Complaint System
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" /> </p>
+$ ls ./projects
+PRPS-Alumni-Association/
+└── MERN Stack Application
 
-I'm currently developing a platform that connects citizens with their local political representatives.
+PRPS Alumni Association
 
-The concept:
+A full-stack alumni platform built using MongoDB, Express.js, React, and Node.js.
+
+LIVE → https://prps-alumni.pages.dev/
+
+$ ps aux | grep current_project
+PID     PROJECT
+001     Civic Complaint Platform
+
+Civic Complaint Platform
+
+Currently building a system that allows citizens to submit local complaints and send them directly toward the relevant political leader.
 
 Citizen
-   ↓
-Report Local Problem
-   ↓
-Select / Detect Area
-   ↓
-Relevant Representative
-   ↓
-Complaint Reaches Responsible Person
+  |
+  +-- Submit Complaint
+  |
+  +-- Area Information
+  |
+  +-- Problem Details
+  |
+  v
+Relevant Political Representative
 
+$ cat interests.txt
+> Web Development
+> JavaScript
+> MERN
+> Robotics
+> Arduino
+> Automation
+> Mechatronics
 
-The bigger goal is to make local problem reporting more accessible and transparent.
+$ github --stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tr-timon&show_icons=true&theme=chartreuse-dark&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=tr-timon&theme=chartreuse-dark&hide_border=true" /> </p>
+$ ./connect.sh
+echo "Let's connect."
 
-🧠 Learning Pipeline
-JavaScript   → ████████████████████
-MERN         → ███████████████████░
-TypeScript   → ████████████░░░░░░░░
-Python       → ██████████░░░░░░░░░░
-C++          → █████████░░░░░░░░░░░
+<p align="center"> <a href="YOUR_LINKEDIN_URL">LinkedIn</a> | <a href="YOUR_PORTFOLIO_URL">Portfolio</a> | <a href="YOUR_X_URL">X</a> | <a href="YOUR_EMAIL">Email</a> </p>
+$ exit
 
-🤖 Engineering Side
-
-My background in Mechatronics Engineering naturally pulls me toward the intersection of software and hardware.
-
-I'm especially interested in:
-
-🤖 Robotics
-🔌 Arduino
-⚙️ Automation
-🧠 Embedded systems
-🌐 Software + hardware integration
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tr-timon&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr-timon&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=tr-timon&theme=tokyonight&hide_border=true" /> </p>
-🌐 Find Me
-<p align="center"> <a href="YOUR_LINKEDIN_URL">LinkedIn</a> • <a href="YOUR_PORTFOLIO_URL">Portfolio</a> • <a href="YOUR_X_URL">X</a> • <a href="YOUR_EMAIL">Email</a> </p>
-<p align="center"> <b>Build → Learn → Improve → Repeat.</b> </p>
+Thanks for stopping by.
+Have a great day. 👋
