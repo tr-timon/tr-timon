@@ -1,64 +1,50 @@
-Hey, it’s me, Tusher 👋
-Full-Stack Developer · Mechatronics Engineering Student · Robotics Enthusiast
+Hey, it’s me, Tusher.
 
-Building things for the web, experimenting with hardware, and learning something new every day.
+Full-Stack Developer in progress. Mechatronics Engineer in training.
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Hey%20there!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /> </p> <p align="center"> <a href="https://github.com/tr-timon"> <img src="https://img.shields.io/github/followers/tr-timon?label=Followers&style=for-the-badge&color=2563EB" /> </a> <img src="https://komarev.com/ghpvc/?username=tr-timon&style=for-the-badge&color=2563EB" /> </p>
-👨‍💻 About Me
+I build web applications with JavaScript and the MERN stack while exploring the intersection of software, hardware, and robotics.
 
-I'm Tusher, a full-stack developer currently learning and building with modern web technologies.
-
-🎓 Pursuing a B.Sc. in Mechatronics Engineering
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,git,github" /> </p>
+About
+🎓 B.Sc. in Mechatronics Engineering
 🏫 World University of Bangladesh
-💻 Mostly working with the MERN Stack + JavaScript
-🌱 Currently learning TypeScript, C++, and Python
-🤖 Interested in Arduino, Robotics & Embedded Systems
-🎯 Goal: Become a highly skilled Full-Stack Developer
-
-⚡ Tech Stack
-Frontend
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /> </p>
-Backend
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> </p>
-Currently Learning
-<p> <img src="https://skillicons.dev/icons?i=ts,cpp,python" /> </p>
-Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> </p>
-🚀 Featured Project
+💻 Focused on Full-Stack Development
+⚡ Primary stack: MERN + JavaScript
+🌱 Learning: TypeScript · C++ · Python
+🤖 Interests: Arduino · Robotics · Automation
+🎯 Goal: Become a professional Full-Stack Developer
+Featured Work
 PRPS Alumni Association
 
-A full-stack alumni association platform built with the MERN Stack.
+A full-stack platform developed using the MERN stack.
 
-Stack: MongoDB · Express.js · React · Node.js
+MongoDB Express.js React Node.js
 
-🔗 Live Demo: https://prps-alumni.pages.dev/
+Live: https://prps-alumni.pages.dev/
 
-🛠️ What I'm Working On
+Currently Building
 
-I'm currently building a platform where citizens can submit complaints about issues in their area, with those complaints being routed directly toward the relevant political leader.
+I'm working on a civic-tech platform designed to help citizens report problems in their local areas.
 
-The goal is simple:
+The idea is to allow citizens to submit complaints digitally and make sure those complaints reach the appropriate political representative.
 
-Give citizens a direct digital channel to communicate local problems.
+Technology + transparency + accessibility.
 
-🧠 Currently Learning
-TypeScript  ███████████░░░  Learning
-C++         ████████░░░░░░  Learning
-Python      ███████░░░░░░░  Learning
+Currently Learning
+TypeScript
+C++
+Python
 
-🤖 Beyond Code
+Interests
+Web Development     ████████████████████
+JavaScript          ████████████████████
+MERN Stack          ███████████████████░
+TypeScript          ███████████░░░░░░░░░
+Robotics            ████████████░░░░░░░░
+Arduino             ████████████░░░░░░░░
 
-When I'm not working on web applications, you'll probably find me exploring:
-
-🤖 Robotics
-🔌 Arduino
-⚙️ Mechatronics
-🧠 Automation
-💡 New technologies
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tr-timon&show_icons=true&theme=github_dark&hide_border=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr-timon&layout=compact&theme=github_dark&hide_border=true" height="170" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=tr-timon&theme=github-dark-blue&hide_border=true" /> </p>
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tr-timon&theme=github-compact&hide_border=true" /> </p>
-🌐 Connect With Me
-<p align="center"> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <a href="YOUR_X_URL"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> </p>
-<p align="center"> <i>"Code it. Build it. Break it. Learn it. Repeat."</i> </p> <p align="center"> ⭐ If you find something interesting here, feel free to explore my repositories. </p>
+GitHub
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tr-timon&show_icons=true&hide_border=true&theme=default" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr-timon&layout=compact&hide_border=true&theme=default" width="48%" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=tr-timon&theme=default&hide_border=true" /> </p>
+Let's Connect
+<p align="left"> <a href="YOUR_LINKEDIN_URL">LinkedIn</a> · <a href="YOUR_PORTFOLIO_URL">Portfolio</a> · <a href="YOUR_X_URL">X</a> · <a href="YOUR_EMAIL">Email</a> </p>
+<p align="center"> <sub>Built with curiosity, caffeine, and a questionable number of browser tabs.</sub> </p>
