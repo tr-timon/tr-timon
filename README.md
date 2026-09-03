@@ -1,116 +1,128 @@
-Hey, it’s me, Tusher 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6D28D9,50:2563EB,100:06B6D4&height=220&section=header&text=TUSHER&fontSize=65&fontColor=ffffff&animation=fadeIn" /> </p> <p align="center"> <b>Full-Stack Developer · Mechatronics Engineer in Training · Builder</b> </p> <p align="center"> <i>Writing code, building systems, and figuring things out along the way.</i> </p>
-Who Am I?
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Hey%2C%20it's%20me%2C%20Tusher%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" /> </p> <h3 align="center"> Full-Stack Developer in the making • Mechatronics Engineering Student • Robotics Enthusiast </h3> <p align="center"> <a href="https://github.com/tr-timon"> <img src="https://img.shields.io/badge/GitHub-tr--timon-181717?style=for-the-badge&logo=github" /> </a> <img src="https://komarev.com/ghpvc/?username=tr-timon&style=for-the-badge&color=2563eb" /> </p>
+👋 About Me
 
-I'm Tusher, a full-stack developer currently learning and improving every day.
+Hey! I'm Tusher — a full-stack developer currently learning, building, breaking things, and figuring them out again.
 
-I'm pursuing a B.Sc. in Mechatronics Engineering at World University of Bangladesh, which gives me a pretty interesting combination of interests:
+I'm pursuing my B.Sc. in Mechatronics Engineering at World University of Bangladesh, while focusing heavily on software development.
 
-Software + Hardware + Automation + Robotics
+My main playground is the MERN stack with JavaScript, but I'm gradually expanding into TypeScript, C++, and Python.
 
-My main focus right now is full-stack web development, especially using the MERN stack with JavaScript.
+I also have a thing for Arduino, robotics, automation, and building things that interact with the real world. 🤖
 
-🧑‍💻 My Developer Journey
-             ┌───────────────────┐
-             │    JavaScript     │
-             └─────────┬─────────┘
-                       │
-                       ▼
-             ┌───────────────────┐
-             │    MERN Stack     │
-             └─────────┬─────────┘
-                       │
-                       ▼
-             ┌───────────────────┐
-             │ Full-Stack Dev    │
-             └─────────┬─────────┘
-                       │
-              ┌────────┴────────┐
-              ▼                 ▼
-          TypeScript          Backend
-              │                 │
-              └────────┬────────┘
-                       ▼
-                Better Systems
+🧑‍💻 What I Do
+🌐 Build web applications
+⚙️ Develop full-stack systems
+🧠 Learn new technologies
+🤖 Experiment with robotics & Arduino
+🚀 Turn ideas into working projects
 
-⚡ Tech I Work With
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,vscode,postman" /> </p>
+🛠️ Tech Stack
+Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,ts,cpp,python" /> </p>
+Full-Stack Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" /> </p>
+Tools & Technologies
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,arduino" /> </p>
 🌱 Currently Learning
 <p align="center"> <img src="https://skillicons.dev/icons?i=ts,cpp,python" /> </p>
-🚀 One of My Projects
-PRPS Alumni Association
 
-A full-stack platform built with the MERN stack.
+I'm currently focusing on:
 
-Frontend → React
-Backend  → Node.js + Express
-Database → MongoDB
-Language → JavaScript
+TypeScript
+C++
+Python
+Better backend architecture
+Writing cleaner and more maintainable code
+🚀 Featured Project
+🏫 PRPS Alumni Association
+
+A full-stack web application built for the PRPS Alumni Association using the MERN stack.
+
+Tech Stack
+
+MongoDB
+Express.js
+React
+Node.js
+JavaScript
+
+<p align="center"> <a href="https://prps-alumni.pages.dev/"> <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> </p>
+🔨 Currently Building
+🏛️ Citizen Complaint Platform
+
+I'm currently working on a platform designed to make it easier for citizens to report problems in their local area.
+
+The basic idea:
+
+        👤 Citizen
+             │
+             ▼
+     📝 Submit Complaint
+             │
+             ▼
+        📍 Local Area
+             │
+             ▼
+   🏛️ Relevant Representative
 
 
-Live Demo: https://prps-alumni.pages.dev/
+The goal is to create a simple digital bridge between citizens and the people responsible for addressing local issues.
 
-🌐 Current Project
-Citizen → Representative
+🤖 Beyond Web Development
 
-I'm currently developing a platform where citizens can submit complaints about issues in their local area.
+My Mechatronics background gives me another area to explore.
 
-The vision:
+I'm especially interested in:
 
-A citizen shouldn't have to figure out where to send a problem. The system should help get it to the right person.
+<p align="center">
 
-It's a project I'm particularly interested in because it combines software development with a real-world problem.
+🤖 Robotics    •   
+🔌 Arduino    •   
+⚙️ Automation    •   
+🧠 Embedded Systems
 
-🤖 Outside the Browser
+</p>
 
-My engineering background keeps pulling me toward hardware.
+Eventually, I'd love to work on projects that combine:
 
-I'm interested in:
-
-Arduino · Robotics · Automation · Mechatronics
-
-Eventually, I'd love to explore projects that combine:
-
-Web
- +
 Software
- +
+   +
 Electronics
- +
+   +
 Robotics
- =
-Interesting Things
+   +
+Automation
+   =
+Interesting Things 🚀
 
 🎯 My Goal
 
-Become a strong full-stack developer capable of taking an idea from concept → code → deployment.
+Become a strong full-stack developer who can take an idea from concept → code → deployment.
 
-For now, that means:
+For me, the process is simple:
 
-Learn → Build → Deploy → Improve
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Fix
+  ↓
+Improve
+  ↓
+Repeat
 
-## 📊 GitHub Stats
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tr-timon&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="180" alt="Tusher's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr-timon&layout=compact&hide_border=true&theme=tokyonight" height="180" alt="Tusher's Most Used Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=tr-timon&theme=tokyonight&hide_border=true" alt="Tusher's GitHub Streak" /> </p>
+📌 What You'll Find Here
+💻 Web Development
+⚡ JavaScript / MERN
+🧪 Experiments
+🚀 Personal Projects
+🤖 Robotics & Arduino
+📚 Learning & Practice
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tr-timon&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"
-    height="180"
-    alt="Tusher's GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr-timon&layout=compact&hide_border=true&theme=tokyonight"
-    height="180"
-    alt="Tusher's top languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=tr-timon&theme=tokyonight&hide_border=true"
-    alt="Tusher's GitHub streak"
-  />
-</p>
-
-🤝 Let's Connect
-<p align="center"> <a href="YOUR_LINKEDIN_URL">LinkedIn</a> &nbsp;•&nbsp; <a href="YOUR_PORTFOLIO_URL">Portfolio</a> &nbsp;•&nbsp; <a href="YOUR_X_URL">X</a> &nbsp;•&nbsp; <a href="YOUR_EMAIL">Email</a> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:06B6D4&height=100&section=footer" /> </p> <p align="center"> <b>Thanks for visiting my corner of GitHub. 🚀</b> </p> 
+🌐 Let's Connect
+<p align="center"> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <a href="YOUR_X_URL"> <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> </p>
+<p align="center"> <i>"Still learning. Still building. Still becoming better."</i> </p> <p align="center"> <b>Thanks for stopping by! 🚀</b> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer" width="100%" /> </p>
